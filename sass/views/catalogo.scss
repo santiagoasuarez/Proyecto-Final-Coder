@@ -1,0 +1,36 @@
+ 
+ 
+ 
+ main{
+     max-width: 100vw;
+    /*  height: 100vh; */
+     background-color: #760905;
+ .imagen_catalogo{
+            height: 250px;
+        }
+ .titulo_catalogo{
+     font-size: small;
+     padding-left: 10px;
+     color: #CCDBDC;
+ }
+ .libro{
+     margin: 0 1.5rem 0 1.5rem;
+     display: flex;
+     justify-content: center;
+     flex-direction: column;
+     align-items: center;
+
+ }
+ .indice{
+     display: flex;
+     flex-direction: column;
+     align-items: center;
+     background-color: #292929;
+     color: #CCDBDC;
+     max-height: 100vh;
+
+ }
+.catalogo{
+    background-color: #760905;
+}
+  }

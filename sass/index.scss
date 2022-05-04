@@ -1,0 +1,24 @@
+main {
+    .imagen_inicio{
+        height: 250px;
+        margin: 0px 15px 20px 40px;
+        border-color: #CCE6F4;
+        border: 5px;
+    }
+
+    .imagen_inicio_uno{
+        height: 256px;
+        margin: 10px 35px 20px 40px;
+        border-color: #CCE6F4;
+        border: 5px;
+    }
+    p{
+        display: flex;
+        align-items: center;
+        padding-top: 70px;
+        padding-left: 20px;
+        margin-left: 20px;
+        color: aliceblue;
+
+    }
+}

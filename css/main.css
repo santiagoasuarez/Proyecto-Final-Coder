@@ -1,0 +1,95 @@
+/*partials*/
+footer {
+  background-color: #1D3D72; }
+  footer ul {
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    justify-content: space-evenly;
+    color: aliceblue; }
+
+header {
+  /* display: flex;
+    flex-direction: row;
+    align-items: center; */
+  background-color: #425F61; }
+
+/*views*/
+main {
+  max-width: 100vw;
+  /*  height: 100vh; */
+  background-color: #760905; }
+  main .imagen_catalogo {
+    height: 250px; }
+  main .titulo_catalogo {
+    font-size: small;
+    padding-left: 10px;
+    color: #CCDBDC; }
+  main .libro {
+    margin: 0 1.5rem 0 1.5rem;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center; }
+  main .indice {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #292929;
+    color: #CCDBDC;
+    max-height: 100vh; }
+  main .catalogo {
+    background-color: #760905; }
+
+form {
+  align-items: center; }
+  form input {
+    margin-left: 20px; }
+  form .motivo_consulta {
+    height: 100px;
+    padding-right: 15px; }
+
+main h2 {
+  color: aliceblue; }
+
+main form {
+  color: aliceblue; }
+
+main .imagen_nosotros {
+  height: 250px;
+  margin: 0px 15px 20px 40px;
+  border-color: #CCE6F4;
+  border: 5px; }
+
+main .imagen_nosotros_uno {
+  height: 265px;
+  margin: 0px 15px 20px 40px;
+  border-color: #CCE6F4;
+  border-width: 5px 5px 5px 5px; }
+
+main p {
+  display: flex;
+  align-items: center;
+  padding-top: 70px;
+  padding-left: 20px;
+  margin-left: 20px; }
+
+main .imagen_inicio {
+  height: 250px;
+  margin: 0px 15px 20px 40px;
+  border-color: #CCE6F4;
+  border: 5px; }
+
+main .imagen_inicio_uno {
+  height: 256px;
+  margin: 10px 35px 20px 40px;
+  border-color: #CCE6F4;
+  border: 5px; }
+
+main p {
+  display: flex;
+  align-items: center;
+  padding-top: 70px;
+  padding-left: 20px;
+  margin-left: 20px;
+  color: aliceblue; }

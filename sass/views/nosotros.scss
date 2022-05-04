@@ -1,0 +1,22 @@
+main{
+    .imagen_nosotros{
+        height: 250px;
+        margin: 0px 15px 20px 40px;
+        border-color: #CCE6F4;
+        border: 5px;
+    }
+    .imagen_nosotros_uno{
+        height: 265px;
+        margin: 0px 15px 20px 40px;
+        border-color: #CCE6F4;
+        border-width: 5px 5px 5px 5px;
+    }
+
+    p{
+        display: flex;
+        align-items: center;
+        padding-top: 70px;
+        padding-left: 20px;
+        margin-left: 20px;
+    }
+}
