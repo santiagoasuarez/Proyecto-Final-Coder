@@ -22,3 +22,26 @@ main {
 
     }
 }
+
+@media (max-width:2000px) {
+
+    main {
+        min-height: 100vh;
+
+
+    }
+}
+
+@media (max-width:485px) {
+    .imagen_inicio{
+       width: 80% !important ;
+        margin: 0px 7px 0px 25px !important ;
+    }
+
+    .imagen_inicio_uno{
+       
+    width: 80% !important ;
+        margin: 5px 0px 0px 25px !important;
+    }
+
+}

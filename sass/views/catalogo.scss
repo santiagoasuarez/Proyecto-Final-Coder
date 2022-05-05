@@ -3,7 +3,7 @@
  
  main{
      max-width: 100vw;
-    /*  height: 100vh; */
+
      background-color: #760905;
  .imagen_catalogo{
             height: 250px;
@@ -34,3 +34,22 @@
     background-color: #760905;
 }
   }
+  
+
+@media (max-width:2000px) {
+
+    .indice{
+        min-height: 100vh;
+    }
+ .catalogo {
+     min-height: 100vh;
+ }
+
+
+}
+
+@media (max-width:767px) {
+    .indice{
+        min-height: 25vh;
+    }
+}

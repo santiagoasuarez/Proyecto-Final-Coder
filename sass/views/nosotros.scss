@@ -20,3 +20,19 @@ main{
         margin-left: 20px;
     }
 }
+
+@media (max-width:447px) {
+  .imagen_nosotros{ 
+      
+    width: 80%;
+    margin: 0px 7px 10px 20px;
+
+  }
+
+  .imagen_nosotros_uno {
+      width: 80%;
+      margin: 0px 7px 10px 20px;
+
+  }
+
+}
